@@ -9,3 +9,13 @@ body {
     background-color: #d3d3d3;
     text-align: center;
 }
+
+header {
+    background-color: darkgrey;
+    color: white;
+    padding: 15px;
+}
+
+.nav-links {
+    display: flex;
+}
