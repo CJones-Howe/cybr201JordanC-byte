@@ -33,7 +33,7 @@ header {
     font-size: 30px;
 }
 
-.nav-links ahover {
+.nav-links a:hover {
     color: yellow;
     font-size: 60px;
 }
