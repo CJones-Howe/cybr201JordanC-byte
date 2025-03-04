@@ -20,3 +20,7 @@ header {
     display: flex;
     list-style: none;
 }
+
+.nav-links li {
+    padding: 15px;
+}
