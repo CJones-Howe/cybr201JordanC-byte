@@ -53,6 +53,22 @@ header {
     background-color: lightblue;
     padding: 30px;
     width: 200px;
+    /*height: 500px;*/
+    text-align: center;
+}
+
+.box2 {
+    background-color: pink;
+    padding: 30px;
+    width: 200px;
+    height: 500px;
+    text-align: center;
+}
+
+.box3 {
+    background-color: lightgreen;
+    padding: 30px;
+    width: 200px;
     height: 500px;
     text-align: center;
 }
