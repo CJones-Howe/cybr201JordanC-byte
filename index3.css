@@ -41,3 +41,9 @@ header {
 .nav-links: a:visited {
     color: purple;
 }
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+
