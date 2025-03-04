@@ -48,5 +48,7 @@ header {
 }
 
 .box {
-    background-color: blue;
+    background-color: lightblue;
+    padding: 30px;
+    width: 200px;
 }
