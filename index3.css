@@ -37,3 +37,7 @@ header {
     color: yellow;
     font-size: 60px;
 }
+
+.nav-links: a:visited {
+    color: purple;
+}
