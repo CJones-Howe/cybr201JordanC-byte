@@ -32,3 +32,8 @@ header {
     text-decoration: none;
     font-size: 30px;
 }
+
+.nav-links hover {
+    color: yellow;
+    font-size: 60px;
+}
