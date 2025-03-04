@@ -28,7 +28,7 @@ header {
 }
 
 .nav-links a {
-    color: blue;
+    color: lightblue;
     text-decoration: none;
     font-size: 30px;
 }
@@ -60,7 +60,7 @@ header {
 .box2 {
     background-color: pink;
     padding: 30px;
-    width: 200px;
+    /*width: 200px;*/
     height: 500px;
     text-align: center;
 }
@@ -69,7 +69,7 @@ header {
     background-color: lightgreen;
     padding: 30px;
     width: 200px;
-    height: 500px;
+    /*height: 500px;*/
     text-align: center;
 }
 
