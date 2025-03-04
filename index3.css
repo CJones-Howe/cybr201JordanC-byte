@@ -56,8 +56,12 @@ header {
     text-align: center;
 }
 
-@media (max-width; 760px)
-.nav-links {
-    flex-direction: column;
+@media (max-width; 760px) {
+    .nav-links {
+        flex-direction: column;
+    }
+    .content {
+        flex-direction: column;
+    }
 }
     
