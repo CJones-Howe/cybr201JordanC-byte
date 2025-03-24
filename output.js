@@ -1,15 +1,15 @@
 function showInnerHTML() (
-  document.getElementById("output1").innerHTML = "Hello from innerHTML!";
+  document.getElementById("output1").innerHTML = "Hello, how are you doing?";
 }
 
 function useDocumentwrite() {
-document.write("This replaces the page content! Not recommended.");
+  document.write("This replaces the page content, so you probably shouldn't do that.");
 }
 
 function showAlert() {
-alert("This is an alert box!");
+  alert("This is an alert box!");
 }
 
 function showConsole() {
-console.log("This message is in the console.");
+  console.log("This message is in the console.");
 }
