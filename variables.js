@@ -1,10 +1,10 @@
 // Using let
-//let name = "Jordan";
-//let age = 19;
-//let isStudent = true;
+let name = "Jordan";
+let age = 19;
+let isStudent = true;
 
-//document.getElementById("demo1").innerHTML = 
-//  "Name: " + name + "<br>Age: " + age + "<br>Student: " + isStudent;
+document.getElementById("demo1").innerHTML = 
+  "Name: " + name + "<br>Age: " + age + "<br>Student: " + isStudent;
 
 var city = "Albany";   // Function-scoped
 let state = "NY";      // Block-scoped
